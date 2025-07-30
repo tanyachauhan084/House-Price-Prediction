@@ -68,6 +68,13 @@ The **California Housing dataset** contains data collected from the 1990 Califor
    git clone https://github.com/tanyachauhan084/House-Price-Prediction.git <br>
    cd House-Price-Prediction
 
+2. Install dependencies
+
+3. Run the Jupyter Notebook
+
+4. Open and run House_price_prediction.ipynb
+
+
 ## Author
 
 Tanya Chauhan
