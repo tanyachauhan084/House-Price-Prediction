@@ -65,5 +65,9 @@ The **California Housing dataset** contains data collected from the 1990 Califor
 
 1. Clone the repository:
  
-   git clone https://github.com/tanyachauhan084/House-Price-Prediction.git
+   git clone https://github.com/tanyachauhan084/House-Price-Prediction.git <br>
    cd House-Price-Prediction
+
+## Author
+
+Tanya Chauhan
